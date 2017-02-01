@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "townsmod",
+  "name": "Towns Mod",
+  "description": "Towns, cities and more
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["yura29"],
+  "credits": "The Forge and FML guys, for making this development kit and for Wehavecookies with his modding tutorials",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
