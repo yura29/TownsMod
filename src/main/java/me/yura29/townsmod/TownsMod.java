@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package me.yura29.townsmod;
 
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
